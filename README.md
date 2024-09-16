@@ -2,28 +2,33 @@
 <h1 align="left">Telegram:<a href="https://t.me/linux_ebashilov" target="_blank"> Ebashilov</a> 
 
 
-[![codewars](https://www.codewars.com/users/EbashilovKali/badges/large)](https://www.codewars.com/users/EbashilovKali) 
-[![codewars](https://www.codewars.com/users/EbashilovKali/badges/micro)](https://www.codewars.com/users/EbashilovKali)
+![trophy](https://github-profile-trophy.vercel.app/?username=EbashilovKali2&theme=darkhub&no-bg=true&no-frame=true)
 
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Ebashilov+instruments;Termux;Linux)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Deffense;800;Rub)](https://git.io/typing-svg)
+**Здравствуй, дорогой друг. Ты скорее всего ищешь иснтрументы для поиска информации. Тогда тебе в Repositories [ ! ]**
 
+[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
+[telegram-news]: https://t.me/paralich_py
+[telegram-group]: https://t.me/paralich_py/3
+[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
+  
+[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:secret) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
+* Open-source enthusiast and maintainer :desktop_computer:
+* Love to help people :electric_plug:
+* I do like automation 🤖
+* I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
 
-**_INSTRUMENTS LANGUAGE:_**
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
+![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white)
 
-**_My OS:_**
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**_Я доступен только в ->_**
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EbashilovKali)](https://git.io/streak-stats)
+![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
