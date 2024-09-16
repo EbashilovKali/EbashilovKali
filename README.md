@@ -2,12 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я создаю инструменты для поиска по "открытым" источникам и являюсь создателем инструмента PARALICH</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Ebashilov+instruments;Termux;Linux)](https://git.io/typing-svg) 
+[![codewars](https://www.codewars.com/users/EbashilovKali/badges/large)](https://www.codewars.com/users/EbashilovKali) 
 [![codewars](https://www.codewars.com/users/EbashilovKali/badges/large)](https://www.codewars.com/users/EbashilovKali)
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Deffense;800;Rub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Ebashilov+instruments;Termux;Linux)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Deffense;800;Rub)](https://git.io/typing-svg)
 
 
 
