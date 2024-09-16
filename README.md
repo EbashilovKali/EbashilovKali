@@ -11,7 +11,7 @@
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/linux_ebashilov) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
-* Open-source enthusiast and maintainer :desktop_computer:
+* Python o'Sint and c'SINT Instruments ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * Love to help people :electric_plug:
 * I do like automation 🤖
 * I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
