@@ -3,7 +3,7 @@
 <h3 align="center">Я создаю инструменты для поиска по "открытым" источникам и являюсь создателем инструмента PARALICH</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF0000&lines=PARALICH+>>+EBASHILOV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#FF0000&lines=PARALICH+>>+EBASHILOV)](https://git.io/typing-svg)
 
 
 **_INSTRUMENTS LANGUAGE:_**
