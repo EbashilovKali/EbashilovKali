@@ -9,7 +9,7 @@
 [telegram-group]: https://t.me/paralich_py/3
 [telegram-group-badge]: https://img.shields.io/badge/PARALICH%20CHAT-Telegram-red?style=flat&logo=Telegram
   
-[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:secret) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
