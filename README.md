@@ -3,6 +3,9 @@
 <h3 align="center">Я создаю инструменты для поиска по "открытым" источникам и являюсь создателем инструмента PARALICH</h3>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=PARALICH+>>+EBASHILOV)](https://git.io/typing-svg)
+
+
 **_INSTRUMENTS LANGUAGE:_**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
