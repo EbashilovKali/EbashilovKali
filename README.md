@@ -8,10 +8,11 @@
 [telegram-news]: https://t.me/paralich_py
 [telegram-group]: https://t.me/paralich_py/3
 [telegram-group-badge]: https://img.shields.io/badge/PARALICH%20CHAT-Telegram-red?style=flat&logo=Telegram
-
-![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/linux_ebashilov) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) _//#_ **o'Sint and c'SINT Instruments**
 
@@ -20,6 +21,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) _//#_ **Easy install instruments**
 
 ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) _//#_ **MAKTPAXER // https://t.me/a_maktpaxep**
+
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
@@ -32,4 +36,4 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
+![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EbashilovKali&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
