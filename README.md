@@ -8,6 +8,8 @@
 [telegram-news]: https://t.me/paralich_py
 [telegram-group]: https://t.me/paralich_py/3
 [telegram-group-badge]: https://img.shields.io/badge/PARALICH%20CHAT-Telegram-red?style=flat&logo=Telegram
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
   
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/linux_ebashilov) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
