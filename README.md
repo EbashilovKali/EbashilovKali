@@ -4,10 +4,10 @@
 
 **Здравствуй, дорогой друг. Ты скорее всего ищешь иснтрументы для поиска информации. Тогда тебе в Repositories [ ! ]**
 
-[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
+[telegram-news-badge]: https://img.shields.io/badge/PARALICH%20CHANELL-Telegram-red?style=flat&logo=Telegram
 [telegram-news]: https://t.me/paralich_py
 [telegram-group]: https://t.me/paralich_py/3
-[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
+[telegram-group-badge]: https://img.shields.io/badge/PARALICH%20CHAT-Telegram-red?style=flat&logo=Telegram
   
 [![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:secret) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
 
