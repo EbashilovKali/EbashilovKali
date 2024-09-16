@@ -26,7 +26,7 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=EbashilovKali&repo=VisionGodBeta&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/EbashilovKali/VisionGodBeta)
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=EbashilovKali&repo=NumberSearch&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/EbashilovKali/NumberSearch)
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
