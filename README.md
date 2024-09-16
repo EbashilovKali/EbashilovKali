@@ -4,6 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=Ebashilov+instruments;Termux;Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=small+caps&weight=100&size=15&duration=2000&pause=2&color=F70000&background=27272750&center=true&vCenter=true&width=435&lines=%D0%A0%D0%9E%D0%A1%D0%93%D0%92%D0%90%D0%A0%D0%94%D0%98%D0%AF+%D0%92%D0%98%D0%94%D0%98%D0%A2+%D0%A7%D0%A2%D0%9E+%D0%A2%D0%AB+%D0%94%D0%95%D0%9B%D0%90%D0%95%D0%A8%D0%AC;%D0%A2%D0%AB+%D0%9D%D0%95+%D0%90%D0%9D%D0%9E%D0%9D%D0%98%D0%9C%D0%95%D0%9D;%D0%9D%D0%98%D0%9A%D0%9E%D0%93%D0%94%D0%90+%D0%9D%D0%95+%D0%97%D0%90%D0%91%D0%AB%D0%92%D0%90%D0%99;%D0%A1+%D0%A7%D0%95%D0%93%D0%9E+%D0%A2%D0%AB+%D0%9D%D0%90%D0%A7%D0%98%D0%9D%D0%90%D0%9B;%D0%92%D0%95%D0%94%D0%AC+%D0%A2%D0%AB;%D0%AD%D0%A2%D0%9E+%D0%A7%D0%90%D0%A1%D0%A2%D0%98%D0%A7%D0%9A%D0%90+%D0%9C%D0%95%D0%9D%D0%AF)](https://git.io/typing-svg)
 
 
 **_INSTRUMENTS LANGUAGE:_**
