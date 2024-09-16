@@ -1,5 +1,9 @@
 ## ⚡Привет, мой дорогой друг⚡
 
+
+<img alt="gif" src="/U7P4L-IN/U7P4L-IN/raw/master/assets/images/demon-sleyar.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
 **_Изученные языки програмирования_**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
