@@ -2,7 +2,7 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-**Здравствуй, дорогой друг. Ты скорее всего ищешь иснтрументы для поиска информации. Тогда тебе в Repositories [ ! ]**
+**Ты скорее всего ищешь иснтрументы для поиска информации. Тогда тебе в Repositories [ ! ]**
 
 [telegram-news-badge]: https://img.shields.io/badge/PARALICH%20CHANELL-Telegram-red?style=flat&logo=Telegram
 [telegram-news]: https://t.me/paralich_py
